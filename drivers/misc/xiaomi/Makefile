@@ -44,4 +44,5 @@ obj-$(CONFIG_XIAOMI_LB) += lb/
 obj-$(CONFIG_XIAOMI_MI_SCHEDULE) += mi_schedule/
 obj-$(CONFIG_XIAOMI_XR_QI) += xr_qi/
 obj-$(CONFIG_XIAOMI_XR_QS) += xr_qs/
+obj-$(CONFIG_XIAOMI_METIS) += metis/
 obj-y += miwill/
